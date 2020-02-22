@@ -1,2 +1,2 @@
-# gitPic
-picture resource
+# MarkDownPic
+MarkDownPic 图床
